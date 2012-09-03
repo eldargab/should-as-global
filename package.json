@@ -1,0 +1,16 @@
+{
+  "name": "should-as-global",
+  "version": "0.0.1",
+  "description": "Just requires 'should' and assigns it to a global var 'assert'",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eldargab/should-as-global.git"
+  },
+  "keywords": [
+    "should",
+    "assert",
+    "test"
+  ],
+  "author": "Eldar Gabdullin <eldargab@gmail.com>",
+  "license": "MIT"
+}
